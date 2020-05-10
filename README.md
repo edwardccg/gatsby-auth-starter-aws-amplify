@@ -1,5 +1,7 @@
 # Gatsby Auth starter with AWS Amplify  
 
+
+
 This auth starter implements a basic authentication flow for signing up signing in users as well as protected client side routing using [AWS Amplify](https://amplify.aws). Auth features:
 - User sign up
 - User sign in
